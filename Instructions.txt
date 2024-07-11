@@ -1,0 +1,16 @@
+To Run the Project please Follow these
+Step:
+1: Open Project folder in visual studio Code
+2: Open the command Terminal
+Backend:
+type cd backend in terminal and press Enter button 
+And after type "npm i" press Enter wait to intalling module and Success module install 
+And Type "npm run start dev" Press Enter 
+Show "Port 5000 Mongodb is Connected" 
+Fronted:
+4: Open new command terminal 
+5:Type cd frontend in terminal and press Enter button 
+And After type "npm i" press Enter wait to intalling module and Success module install 
+And after type "npm run dev"press Enter
+6: Open the Browser and Enter Url "http://localhost:5173/"
+Successfully Done
